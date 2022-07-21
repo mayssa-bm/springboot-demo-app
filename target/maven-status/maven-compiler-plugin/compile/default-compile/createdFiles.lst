@@ -1,0 +1,5 @@
+com/notesapp/notes/entity/Note.class
+com/notesapp/notes/NotesServiceApplication.class
+com/notesapp/notes/controller/NoteController.class
+com/notesapp/notes/service/NoteService.class
+com/notesapp/notes/repository/NoteRepository.class
